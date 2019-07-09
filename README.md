@@ -1,16 +1,17 @@
-### Project Name
-Choose a self-explaining name for your project.
+### Let’s Write a Superbadge!
+Brainstorming and drafting content for a fundraising specialist superbadge. 
+[Detailed project info here.](https://docs.google.com/document/d/1Jk49ZMCronDZ20KGF289I8GvF9tReeOwRRDTpu6kkaA/edit#)
 
-### Project Description
-Let people know what your project can do and the intended benefits. 
+### What's this all about?
+We’d like to work with the community to develop advanced Trailhead content! We’re in the initial stages for developing a superbadge on fundraising for admins, hoping to partner with people familiar with this topic that would like to help create and test training content. Our Sprint goal is to brainstorm and draft the various Trailhead pieces we need to create, polish, and publish the first nonprofit superbadge.
 
-### Project Audience
-Indicate who would find the most value in the use of this project.
+### Who should work on this? 
+You love (or love-hate) writing, have ideas about improving content or learning, are familiar with using NPSP for fundraising. 
 
 ### Project Team
 
-* Team Leader:
-* List of Contributors:
+* Team Leader: Catherine Adams (catherine.adams@salesforce.com)
+* List of Contributors: 
 
 ### Project Team Accomplishments
 What did the Project Team accomplished during the Sprint?
