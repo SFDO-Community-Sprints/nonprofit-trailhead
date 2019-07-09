@@ -14,11 +14,9 @@ Here's a link to the [project info details](https://docs.google.com/document/d/1
 * Team Leader: Catherine Adams (catherine.adams@salesforce.com)
 * List of Contributors: 
 
-### Project Team Accomplishments
+### Project Team Sprint Accomplishments
 What did the Project Team accomplished during the Sprint?
 
 ### Contributing
-If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?
-
-### Project Roadmap
-What is the ultimate vision for this project?
+We want to work with you! Not just at the Sprint and on this fundraising superbadge idea, but more permanently on nonprofit trailhead content. Fill out [this short survey](https://forms.gle/GAt6KecqqtZ73zcJ6) and let us know what you want to work on and what's the best way to communicate with you.
+And while you're at it...[take this survey to share your thoughts on our trailhead content](https://forms.gle/a8av9FK7PNq7DV8D7).
