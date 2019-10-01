@@ -1,11 +1,11 @@
 ## Project Update - Oct 2019 ##
 Thanks to everyone in the community that has contributed to the very first nonprofit superbadge! This project is currently on hold, but here's the summary of what we've accomplished so far, and what we hope to do next:
 
-At the Detroit Community Sprint in July 2019, the SFDO Content Adoption Team (CATeam) and members of the community came together to create the list of requirements/task an admin should know as a fundraising specialist and how someone can demonstrate their knowledge and ability via a Trailhead superbadge. After the Detroit Sprint, the CATeam returned to their caves and began organizing the requirments into something that resembled a story. Developing and publishing Trailhead content, however, is a team sport. A month after the Sprint, the CATeam pressed pause on the project to better accommodate the priorities and timelines their internal teammates. 
+At the Detroit Community Sprint in July 2019, the SFDO Content Adoption Team (CATeam) and members of the community came together to create the list of requirements/task an admin should know as a fundraising specialist and how to demonstrate this knowledge and ability via a Trailhead superbadge. After the Detroit Sprint, the CATeam returned to their caves and began organizing the requirments into something that resembled a story. Developing and publishing Trailhead content, however, is a team sport. About a month after the Sprint, the CATeam pressed pause on the project to better accommodate the priorities and timelines their internal teammates. 
 
 The CATeam would love to continue working with the community on this project, and will be in touch with the original community collaborators when content development resumes. In the meantime, contact the Project Leaders (listed below) with any question or comments. 
 
-Thank you for everything you do! We couldn't create this content without the thoughtful and thorough input from community members. 
+Thank you for everything you do! We couldn't create this content without your thoughtful and thorough contributions.  
 
 ### Let’s Write a Superbadge!
 Brainstorming and drafting content for a fundraising specialist superbadge. 
