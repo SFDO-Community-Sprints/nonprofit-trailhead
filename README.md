@@ -17,7 +17,8 @@ We’d like to work with the community to develop advanced Trailhead content! We
 You love (or love-hate) writing, have ideas about improving content or learning, are familiar with using NPSP for fundraising. 
 
 ### Project Info
-Oct 2019 update:  We'll relink the relevant docs when development resumes. Thanks for your understanding! 
+**Oct 2019 update:**  We'll relink the relevant docs when development resumes. Thanks for your understanding! 
+
 ~~Here's a link to the project info details. We've decided that we're going to write in Google Docs, so we'll be using Google Drive and Docs for our development, as well. That includes our Sprint brainstorming! Here's a link to the Google Doc we're working from. Email the Project Team peeps if you have issues or need to explicitly ask for access permission.~~
 
 ### Project Team
