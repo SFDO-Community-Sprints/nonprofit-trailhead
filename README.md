@@ -33,5 +33,4 @@ We drafted the requirements and test that an admin needs to complete to earn a f
 If you want to help in the next version, let us know! 
 
 ### Contributing
-We want to work with you! Not just at the Sprint and on this fundraising superbadge idea, but more permanently on nonprofit trailhead content. Fill out [this short survey](https://forms.gle/1BvEtoyMZtmSbieX6) and let us know what you want to work on and what's the best way to communicate with you.
-And while you're at it...[take this survey to share your thoughts on our trailhead content](https://forms.gle/E7DFZAUNtcm7mBRh9).
+We want to work with you! Not just at the Sprint and on this fundraising superbadge idea, but more permanently on nonprofit trailhead content. Contact Catherine Adams (catherine.adams@salesforce.com) with any ideas and to start a conversation on how we can collaborate. 
